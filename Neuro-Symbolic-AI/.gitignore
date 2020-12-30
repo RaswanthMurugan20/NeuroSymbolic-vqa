@@ -6,7 +6,7 @@
 *.launch
 .settings/
 *.sublime-workspace
-./ipynb_checkpoints
+.ipynb_checkpoints
 # IDE - VSCode
 .vscode/*
 !.vscode/settings.json
